@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Lumigrit")(type "KiCad")(uri "${KIPRJMOD}/Lumigrit.pretty")(options "")(descr ""))
+)
